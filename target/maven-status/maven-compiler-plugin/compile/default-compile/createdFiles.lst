@@ -1,0 +1,4 @@
+com/humber/learning/testrestservice/JAXRSConfiguration.class
+my/models/User.class
+com/humber/learning/testrestservice/resources/JavaEE8Resource.class
+my/services/UserService.class
